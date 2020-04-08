@@ -69,13 +69,14 @@
               </li>
 
             </ul>
+            <div id="content"></div>
           </div>
         </div>
       </section>
 
       <section class="bg-white">
         <div class="container">
-          <div class="tab-content mb-5 pb-5" id="content">
+          <div class="tab-content mb-5 pb-5">
 
             <div class="tab-pane fade active show" id="frage-1" role="tabpanel">
               <div class="text-center pb-4 mt-2">
@@ -232,7 +233,7 @@
                 </li>
               </ul>
             </div>
-            
+
             <div class="tab-pane fade" id="frage-6" role="tabpanel">
               <div class="text-center pb-4 mt-2">
                 <h1>Welche Dachziegelform passt am besten zum Haus und Dach?</h1>
