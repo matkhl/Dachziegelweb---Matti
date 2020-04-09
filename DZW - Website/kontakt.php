@@ -1,11 +1,11 @@
-<!--DANKESEITE-->
+<!--KONTAKT-->
 <!DOCTYPE html>
 
 <html lang="de">
 
   <head>
     <meta charset="utf-8">
-    <title>Vielen Dank | dzw</title>
+    <title>Kontakt | dzw</title>
     <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,400i,500" rel="stylesheet">
     <link href="css/socicon.css" rel="stylesheet" type="text/css" media="all" />
     <link href="css/entypo.css" rel="stylesheet" type="text/css" media="all" />
@@ -17,13 +17,39 @@
     <?php include("./imports/header.html"); ?>
 
     <div class="main-container">
-      <div class="container" style="margin-bottom: 150px;">
-        <div class="text-center pb-3 mt-5">
-          <p class="text-muted">Jetzt mit der Profi-Suche Starten.</p>
-          <h1>Vielen Dank für Ihre Bestellung</h1>
-          <p>Als nächstes erhalten Sie eine Bestätigungsmail.<br>
-          Die Abbuchung erfolgt durch Digistore24.</p>
-          <button class="btn btn-success" type="button" name="button">Zum Login</button>
+      <div class="container">
+
+        <div class="text-center mt-5">
+          <p class="text-muted mb-4">Wir freuen uns, von ihnen zu hören.</p>
+          <h1 class="display-4 mb-4">Kontakt</h1>
+          <span class="lead m-0">Fragen rund um unseren Service beantworten wir Ihnen gern telefonisch, per Fax oder per Email.</span>
+        </div>
+        <div class="row px-5 pb-5 mb-5">
+
+          <div class="col-md-4 text-center pt-5">
+            <div class="container px-5 mb-3">
+              <i class="icon-mobile h1 mx-4 p-3 border border-success" style="color: #02B875; border-radius: 15px;"></i>
+            </div>
+            <p class="display-5 font-weight-bold">Telefonnummer</p>
+            <p class="display-5">+49 (0) 3381 / 702914</p>
+          </div>
+
+          <div class="col-md-4 text-center pt-5">
+            <div class="container px-5 mb-3">
+              <i class="icon-print h1 mx-4 p-3 border border-success" style="color: #02B875; border-radius: 15px;"></i>
+            </div>
+            <p class="display-5 font-weight-bold">Fax</p>
+            <p class="display-5">+49 (0) 3381 / 702914</p>
+          </div>
+
+          <div class="col-md-4 text-center mb-5 pt-5">
+            <div class="container px-5 mb-3">
+              <i class="icon-mail h1 mx-4 p-3 border border-success" style="color: #02B875; border-radius: 15px;"></i>
+            </div>
+            <p class="display-5 font-weight-bold">E-mail</p>
+            <p class="display-5">info@dachziegelweb.de</p>
+          </div>
+
         </div>
       </div>
 
