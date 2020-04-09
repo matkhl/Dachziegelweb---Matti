@@ -24,45 +24,45 @@
             <h1>Fragen und Antworten</h1>
           </div>
           <div class="container">
-            <ul class="text-center nav nav-cards-horizontal" role="tablist">
+            <ul class="row text-center nav nav-cards-horizontal" role="tablist">
 
-              <li data-aos="fade-up" data-aos-delay="50" style="width: 30%; margin: auto;">
-                <a class="active card" style="border-radius: 10px;" data-toggle="tab" onclick="scrollToContent()" href="#frage-1" role="tab" aria-controls="frage-1" aria-selected="true">
+              <li class="col-md-4 col-sm-6" data-aos="fade-up" data-aos-delay="50" style="margin: auto;">
+                <a class="active card border-green" style="border-radius: 10px;" data-toggle="tab" onclick="scrollToContent()" href="#frage-1" role="tab" aria-controls="frage-1" aria-selected="true">
                   <img class="card-img-top mx-auto mt-2" src="res\img\questionmark_green.png" alt="" style="max-height: 100px; max-width: 100px;">
                   <div class="card-body font-weight-bold pt-1" style="border-radius: 10px;">Dachpfannenauswahl - Dachstein oder Dachziegel?</div>
                 </a>
               </li>
 
-              <li data-aos="fade-up" data-aos-delay="100" style="width: 30%; margin: auto;">
-                <a class="card" style="border-radius: 10px;" data-toggle="tab" onclick="scrollToContent()" href="#frage-2" role="tab" aria-controls="frage-2" aria-selected="false">
+              <li class="col-md-4 col-sm-6" data-aos="fade-up" data-aos-delay="100" style="margin: auto;">
+                <a class="card border-green" style="border-radius: 10px;" data-toggle="tab" onclick="scrollToContent()" href="#frage-2" role="tab" aria-controls="frage-2" aria-selected="false">
                   <img class="card-img-top mx-auto mt-2" src="res\img\questionmark_green.png" alt="" style="max-height: 100px; max-width: 100px;">
                   <div class="card-body font-weight-bold pt-1" style="border-radius: 10px;">Welche Dachneigung sollte ich für mein Dach wählen?</div>
                 </a>
               </li>
 
-              <li data-aos="fade-up" data-aos-delay="150" style="width: 30%; margin: auto;">
-                <a class="card" style="border-radius: 10px;" data-toggle="tab" onclick="scrollToContent()" href="#frage-3" role="tab" aria-controls="frage-3" aria-selected="false">
+              <li class="col-md-4 col-sm-6" data-aos="fade-up" data-aos-delay="150" style="margin: auto;">
+                <a class="card border-green" style="border-radius: 10px;" data-toggle="tab" onclick="scrollToContent()" href="#frage-3" role="tab" aria-controls="frage-3" aria-selected="false">
                   <img class="card-img-top mx-auto mt-2" src="res\img\questionmark_green.png" alt="" style="max-height: 100px; max-width: 100px;">
                   <div class="card-body font-weight-bold pt-1" style="border-radius: 10px;">Gibt es Dachsteine oder Dachziegel die nicht bemoosen?</div>
                 </a>
               </li>
 
-              <li data-aos="fade-up" data-aos-delay="200" style="width: 30%; margin: auto;">
-                <a class="card" style="border-radius: 10px;" data-toggle="tab" onclick="scrollToContent()" href="#frage-4" role="tab" aria-controls="frage-4" aria-selected="false">
+              <li class="col-md-4 col-sm-6" data-aos="fade-up" data-aos-delay="200" style="margin: auto;">
+                <a class="card border-green" style="border-radius: 10px;" data-toggle="tab" onclick="scrollToContent()" href="#frage-4" role="tab" aria-controls="frage-4" aria-selected="false">
                   <img class="card-img-top mx-auto mt-2" src="res\img\questionmark_green.png" alt="" style="max-height: 100px; max-width: 100px;">
                   <div class="card-body font-weight-bold pt-1" style="border-radius: 10px;">Soll ich Dachsteine oder Dachziegel für meine Dacheindeckung wählen?</div>
                 </a>
               </li>
 
-              <li data-aos="fade-up" data-aos-delay="250" style="width: 30%; margin: auto;">
-                <a class="card" style="border-radius: 10px;" data-toggle="tab" onclick="scrollToContent()" href="#frage-5" role="tab" aria-controls="frage-5" aria-selected="false">
+              <li class="col-md-4 col-sm-6" data-aos="fade-up" data-aos-delay="250" style="margin: auto;">
+                <a class="card border-green" style="border-radius: 10px;" data-toggle="tab" onclick="scrollToContent()" href="#frage-5" role="tab" aria-controls="frage-5" aria-selected="false">
                   <img class="card-img-top mx-auto mt-2" src="res\img\questionmark_green.png" alt="" style="max-height: 100px; max-width: 100px;">
                   <div class="card-body font-weight-bold pt-1" style="border-radius: 10px;">Was ist eine Doppeldeckung und Kronendeckung?</div>
                 </a>
               </li>
 
-              <li data-aos="fade-up" data-aos-delay="300" style="width: 30%; margin: auto;">
-                <a class="card" style="border-radius: 10px;" data-toggle="tab" onclick="scrollToContent()" href="#frage-6" role="tab" aria-controls="frage-6" aria-selected="false">
+              <li class="col-md-4 col-sm-6" data-aos="fade-up" data-aos-delay="300" style="margin: auto;">
+                <a class="card border-green" style="border-radius: 10px;" data-toggle="tab" onclick="scrollToContent()" href="#frage-6" role="tab" aria-controls="frage-6" aria-selected="false">
                   <img class="card-img-top mx-auto mt-2" src="res\img\questionmark_green.png" alt="" style="max-height: 100px; max-width: 100px;">
                   <div class="card-body font-weight-bold pt-1" style="border-radius: 10px;">Welche Dachziegelform passt am besten zum Haus und Dach?</div>
                 </a>
